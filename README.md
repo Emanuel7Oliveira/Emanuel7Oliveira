@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Emanuel Oliveira
+- 👀 I’m interested in programming world
+- 🌱 I’m currently learning about TI
+- 💞️ I’m looking to collaborate on little projects
+- 📫 Send me a mail her:
+- olem724@gmail.com 
+- ⚡ Fun fact: I study Computer Networks 

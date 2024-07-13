@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emanuel Oliveira
+- 👋 Hi, I’m Emanuel Serafim Oliveira Silva
 - 👀 I’m interested in programming world
 - 🌱 I’m currently learning about TI
 - 💞️ I’m looking to collaborate on little projects

@@ -7,7 +7,11 @@
 
 ## My project made in Flask  
 This is a website developed with Flask. Check out more details below: 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emanuel7Oliveira&repo=Flask-website&theme=highcontrast)](https://github.com/Emanuel7Oliveira/Flask-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emanuel7Oliveira&repo=Flask-website&theme=catppuccin_mocha)](https://github.com/Emanuel7Oliveira/Flask-website)
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.3-green)
+![HTML](https://img.shields.io/badge/HTML-5-red)
+![CSS](https://img.shields.io/badge/CSS-3-yellow)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel7Oliveira&theme=catppuccin_mocha&hide_border=true)](https://github.com/Emanuel7Oliveira)

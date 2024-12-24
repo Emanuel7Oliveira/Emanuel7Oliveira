@@ -5,7 +5,7 @@
 
 ![Emanuel7Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanuel7Oliveira&show_icons=true&theme=catppuccin_mocha)
 
-## Meu projeto em Flask  
+## My project made in Flask  
 This is a website developed with Flask. Check out more details below: 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emanuel7Oliveira&repo=Flask-website&theme=highcontrast)](https://github.com/Emanuel7Oliveira/Flask-website)
 

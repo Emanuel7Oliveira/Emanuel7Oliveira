@@ -11,6 +11,7 @@ This is a website developed with Flask. Check out more details below:
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.3-green)
+![Jinja](https://img.shields.io/badge/Jinja-2-yellow)
 ![HTML](https://img.shields.io/badge/HTML-5-red)
 ![CSS](https://img.shields.io/badge/CSS-3-yellow)
 
